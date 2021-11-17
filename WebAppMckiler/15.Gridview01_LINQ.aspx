@@ -12,7 +12,7 @@
     <%-- Ajax --%>    
 
 
-    <h2>Grid View LINQ</h2>
+    <h2>Grid View LINQ - Mckiler</h2>
     <div class="row">
         <div class="col-lg-8">
  
